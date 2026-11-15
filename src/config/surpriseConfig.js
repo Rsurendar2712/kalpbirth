@@ -36,7 +36,7 @@ const surpriseConfig = {
 
   // Page 5 – final photo + sentence
   final: {
-    photo: photo6 ,
+    photo: photo2 ,
     sentence: "How do you feel about this surprise? Did you like it? Tell me!",
     placeholder: "Type your message here...",
   },
