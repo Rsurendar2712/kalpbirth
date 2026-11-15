@@ -28,7 +28,7 @@ export default function Emoji() {
         ))}
       </div>
 
-      <div className="emoji-bottom"><button className="btn" onClick={() => navigate("/gallery")}>Next</button></div>
+      <div className="emoji-bottom" id="nbutton"><button className="btn" onClick={() => navigate("/gallery")}>Next</button></div>
       <EmojiRain emoji={rain.emoji} burst={rain.burst} />
     </main>
   );

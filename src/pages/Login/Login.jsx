@@ -28,7 +28,7 @@ export default function Login() {
           <input type="text" value={user} onChange={(e) => { setUser(e.target.value); setError(""); }} placeholder="Enter username" autoComplete="off" />
         </label>
         <label className="field">
-          <span>Password</span>
+          <span>Password (DOB)</span>
           <input type="password" value={pass} onChange={(e) => { setPass(e.target.value); setError(""); }} placeholder="Enter password" onKeyDown={(e) => e.key === "Enter" && handleLogin()} />
         </label>
 

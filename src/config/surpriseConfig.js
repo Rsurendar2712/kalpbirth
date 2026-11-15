@@ -4,41 +4,39 @@
 //  then reference them like "/photos/me.jpg".
 // ============================================================
 
-import photo1 from '../photos/1.jpeg';
-import photo2 from '../photos/2.jpeg';
-import photo3 from '../photos/3.jpeg';
-import photo4 from '../photos/8.jpeg';
-import photo5 from '../photos/5.jpeg';
-import photo6 from '../photos/6.jpeg';
-import photo7 from '../photos/7.jpeg';
-import moon from '../photos/moon.webp';
+import photo1 from '../Klphotos/1.jpg';
+import photo2 from '../Klphotos/2.jpg';
+import photo3 from '../Klphotos/3.jpg';
+import photo4 from '../Klphotos/4.jpg';
+import photo5 from '../Klphotos/5.jpg';
+import photo6 from '../Klphotos/3.jpg';
+import moon from '../Klphotos/moon.png';
 const surpriseConfig = {
-  name: "Janani",
+  name: "Kalpana",
 
   // Login credentials the birthday person must type
-  login: { username: "Janani", password: "15111999" },
+  login: { username: "Kalpana", password: "16111998" },
   loginBackground: moon,
   loginPageBackground: photo2,
 
   // Typed on top of the cake
-  cakeMessage: "Happy Birthday, Janani😍! You make every day brighter.",
+  cakeMessage: "Happy Birthday, Kalpana 😍! You make every day brighter.",
 
   // Page 3 – five hidden emojis
   emojis: ["🎁", "🎉", "💖", "🎂", "🥳"],
 
   // Page 4 – six photos with captions (zig-zag)
   gallery: [
-  { src: photo1, caption: "day filled with beautiful memories, endless happiness, and unforgettable moments!." },
+  { src: photo1, caption: "Forget the tears, forget the hard days. Today the whole world is here just to make you smile. 😊!." },
   { src: photo2, caption: "Happy Birthday to someone who holds a very special place in my heart. ❤️." },
-  { src: photo3, caption: "Our best adventure so far." },
-  { src: photo4, caption: "Always there, no matter what." },
-  { src: photo5, caption: "Memories I will never trade." },
-  { src: photo6, caption: "Another year, another reason to celebrate someone truly special. Keep shining and stay close to my heart.." },
+  { src: photo3, caption: "Happy Birthday! May your day be filled with joy and laughter. 🎈" },
+  { src: photo4, caption: "Leave the negativity and stay positive always. 🌟" },
+  { src: photo5, caption: "You deserve all the joy in the world, so smile big today and let your heart be light. Happy Birthday! 🎉" },
 ],
 
   // Page 5 – final photo + sentence
   final: {
-    photo: photo7 ,
+    photo: photo6 ,
     sentence: "How do you feel about this surprise? Did you like it? Tell me!",
     placeholder: "Type your message here...",
   },
