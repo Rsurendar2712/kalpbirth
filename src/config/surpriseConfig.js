@@ -28,7 +28,7 @@ const surpriseConfig = {
   // Page 4 – six photos with captions (zig-zag)
   gallery: [
   { src: photo1, caption: "Forget the tears, forget the hard days. Today the whole world is here just to make you smile. 😊!." },
-  { src: photo2, caption: "Happy Birthday to someone who holds a very special place in my heart. ❤️." },
+  { src: photo2, caption: "Hold onto only the moments of pure beauty and joy.❤️." },
   { src: photo3, caption: "Happy Birthday! May your day be filled with joy and laughter. 🎈" },
   { src: photo4, caption: "Leave the negativity and stay positive always. 🌟" },
   { src: photo5, caption: "You deserve all the joy in the world, so smile big today and let your heart be light. Happy Birthday! 🎉" },
