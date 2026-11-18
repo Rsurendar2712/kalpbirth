@@ -15,7 +15,7 @@ const surpriseConfig = {
   name: "Kalpana",
 
   // Login credentials the birthday person must type
-  login: { username: "Kalpana", password: "16111998" },
+  login: { username: "Kalpana", password: "28111998" },
   loginBackground: moon,
   loginPageBackground: photo2,
 
